@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **ReactJS,FLUTTER**
 
-- 👯 I’m looking to collaborate on [KENYA POWER ANDROID APP](https://github.com/Kibet-g/KENYA-POWER-ANDROID-APP)
+- 👯 I’m looking to collaborate on [KENYA POWER ANDROID APP](https://github.com/Kibet-g/KENYA-POWER-ANDROID-APP ) and (https://github.com/CUEA-Innovation-Hub)
 
 - 👨‍💻 All of my projects are available at [https://kibet-g-korir.netlify.app/](https://kibet-g-korir.netlify.app/)
 
