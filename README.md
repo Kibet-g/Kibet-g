@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **ReactJS,FLUTTER**
 
-- 👯 I’m looking to collaborate on [KENYA POWER ANDROID APP](https://github.com/Kibet-g/KENYA-POWER-ANDROID-APP ) and (https://github.com/CUEA-Innovation-Hub)
+- 👯 I’m looking to collaborate on [KENYA POWER ANDROID APP](https://github.com/Kibet-g/KENYA-POWER-ANDROID-APP ) and (https://github.com/CUEA-Innovation-Hub) and user interface of my power app (https://www.figma.com/file/l4dDtahwH1pdBZa8HL0sni/MyPower?type=design&node-id=92%3A193&mode=design&t=8ITFz0i1PCOpRtmI-1)
 
 - 👨‍💻 All of my projects are available at [https://kibet-g-korir.netlify.app/](https://kibet-g-korir.netlify.app/)
 
