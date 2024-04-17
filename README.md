@@ -11,7 +11,6 @@
 <p align="left"> <a href="https://twitter.com/@koryegilly5" target="blank"><img src="https://img.shields.io/twitter/follow/@koryegilly5?logo=twitter&style=for-the-badge" alt="@koryegilly5" /></a> </p>
 
 - 🔭 I’m currently working on [Mzinga App](https://github.com/Kibet-g/mzingaa)
-- 🔭 I’m currently working on [CODE ZONE AFRICA WEBSITE](codezoneafrica.netlify.app)
 - 🌱 I’m currently learning **ReactJS,FLUTTER**
 
 - 👯 I’m looking to collaborate on [KENYA POWER ANDROID APP](https://github.com/Kibet-g/KENYA-POWER-ANDROID-APP ) and (https://github.com/CUEA-Innovation-Hub) and user interface of my power app (https://www.figma.com/file/l4dDtahwH1pdBZa8HL0sni/MyPower?type=design&node-id=92%3A193&mode=design&t=8ITFz0i1PCOpRtmI-1)
@@ -23,10 +22,10 @@
 - 📫 How to reach me **kibetg984@gmail.com**
 
 - 📄 Know about my experiences [https://kibet-g-korir.netlify.app/](https://kibet-g-korir.netlify.app/)
+- 📄 I am currently working on [https://codezoneafrica.netlify.app/](https://codezoneafrica.netlify.app/)
 
 - ⚡ Fun fact **I am social**
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamisaackn&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 <h3 align="left">Connect with me:</h3>
