@@ -5,13 +5,13 @@
 <h3 align="center">Founder of Code Zone Africa Lets Talk Anything about flutter/REACT JS Data Analytics with keen focus on Python Libraries</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kibet-g&label=Profile%20views&color=0e75b6&style=flat" alt="kibet-g" /> </p>
+
 
 
 <p align="left"> <a href="https://twitter.com/@koryegilly5" target="blank"><img src="https://img.shields.io/twitter/follow/@koryegilly5?logo=twitter&style=for-the-badge" alt="@koryegilly5" /></a> </p>
 
 - 🔭 I’m currently working on [Mzinga App](https://github.com/Kibet-g/mzingaa)
-
+- 🔭 I’m currently working on [CODE ZONE AFRICA WEBSITE](codezoneafrica.netlify.app)
 - 🌱 I’m currently learning **ReactJS,FLUTTER**
 
 - 👯 I’m looking to collaborate on [KENYA POWER ANDROID APP](https://github.com/Kibet-g/KENYA-POWER-ANDROID-APP ) and (https://github.com/CUEA-Innovation-Hub) and user interface of my power app (https://www.figma.com/file/l4dDtahwH1pdBZa8HL0sni/MyPower?type=design&node-id=92%3A193&mode=design&t=8ITFz0i1PCOpRtmI-1)
