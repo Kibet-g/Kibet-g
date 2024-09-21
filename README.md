@@ -10,8 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/@koryegilly5" target="blank"><img src="https://img.shields.io/twitter/follow/@koryegilly5?logo=twitter&style=for-the-badge" alt="@koryegilly5" /></a> </p>
 
-- 🔭 I’m currently working on [Mzinga App](https://github.com/Kibet-g/mzingaa)
-- 🌱 I’m currently learning **ReactJS,FLUTTER**
+- 🔭 I’m currently studying at Moringa schools
+- 🌱 I’m currently learning **ReactJS,FLUTTER and Python**
 
 - 👯 I’m looking to collaborate on [KENYA POWER ANDROID APP](https://github.com/Kibet-g/KENYA-POWER-ANDROID-APP ) and (https://github.com/CUEA-Innovation-Hub) and user interface of my power app (https://www.figma.com/file/l4dDtahwH1pdBZa8HL0sni/MyPower?type=design&node-id=92%3A193&mode=design&t=8ITFz0i1PCOpRtmI-1)
 
