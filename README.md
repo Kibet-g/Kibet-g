@@ -22,7 +22,7 @@
 - 📫 How to reach me **kibetg984@gmail.com**
 
 - 📄 Know about my experiences [https://kibet-g-korir.netlify.app/](https://kibet-g-korir.netlify.app/)
-- 📄 I am currently working on [https://codezoneafrica.netlify.app/](https://codezoneafrica.netlify.app/)
+- 📄 I am currently working on [ADVERT GO](https://advertgoca.netlify.app/)
 
 - ⚡ Fun fact **I am social**
 
