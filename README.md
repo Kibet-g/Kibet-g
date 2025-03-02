@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **FLUTTER,PHP JAVASCRIPT,HTML,CSS,DART,ANDROID-JAVA,KOTLIN**
 
-- 📫 How to reach me **kibetg984@gmail.com**
+- 📫 How to reach me 
 
 - 📄 Know about my experiences [https://kibet-g-korir.netlify.app/](https://kibet-g-korir.netlify.app/)
 - 📄 I am currently working on [ADVERT GO](https://advertgoca.netlify.app/)
